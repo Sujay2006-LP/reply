@@ -2,35 +2,39 @@
 
 ## Overview
 
-Reply is an Android application built using Kotlin and Jetpack Compose. This project is part of my Android development learning journey, where I am exploring responsive UI design and adaptive layouts for different screen sizes.
+Reply App is an adaptive email application built with **Kotlin** and **Jetpack Compose** as part of the Android Developers learning pathway. The project demonstrates responsive UI design that adapts to different screen sizes, including phones and tablets.
 
-## What I'm Learning
+## Features
 
-* Jetpack Compose UI development
-* Adaptive and responsive layouts
-* Supporting multiple screen sizes and orientations
-* Material Design principles
-* State management in Compose
-* Modern Android app architecture
-
-## Current Status
-
-🚧 Work in Progress
-
-This repository currently contains the starter code and initial project setup. Future updates will focus on implementing adaptive layouts and improving the user experience across phones, tablets, and larger screens.
+* Adaptive layouts for different devices
+* Email list and detail screens
+* Material Design 3 components
+* State-driven UI with ViewModel
+* Responsive navigation patterns
+* Clean architecture with separation of UI and data layers
 
 ## Tech Stack
 
 * Kotlin
 * Jetpack Compose
-* Android Studio
-* Material 3
+* Material Design 3
+* ViewModel
+* MVVM Architecture
 
-## Learning Goals
+## What I Learned
 
-* Build layouts that adapt to different device sizes
-* Understand Compose navigation and state handling
-* Follow Android development best practices
-* Create scalable and maintainable UI components
+* Building adaptive and responsive Android UIs
+* Managing UI state using ViewModel
+* Implementing Material Design 3
+* Structuring Android apps using MVVM
+* Supporting multiple screen sizes with Compose
 
-More updates coming as I continue developing the Reply app.
+## Project Structure
+
+* **Data Layer** – Email and conversation data
+* **UI Layer** – Screens and Compose components
+* **ViewModel Layer** – State management and business logic
+
+
+
+Sujay L Patil
